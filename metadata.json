@@ -1,0 +1,7 @@
+{
+  "name": "Visual Image DecoderV1.2-1",
+  "description": "A high-tech tool to disentangle image styles and subjects, using AI to decode visual elements and transform them through a Dynamic Anchor Protocol.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
